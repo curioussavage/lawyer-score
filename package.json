@@ -1,0 +1,16 @@
+{
+  "name": "lawyer-scoreboard",
+  "version": "0.0.0",
+  "description": "rates lawyers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adam",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^1.7.4",
+    "express": "^4.1.1",
+    "mysql": "^2.2.0"
+  }
+}
